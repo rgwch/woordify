@@ -4,7 +4,7 @@
 
 This is a word finding game, heavily inspired by [Wortify](https://6mal5.com/wortify/), which in turn is inspired by [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee). I didn't find a dutch version, so I had to create my own. You can try a working example [here](https://woordify.rgw.ch).
 
-But this version can easily be adapted to other languages - or other vocabularies (why not create a game to find medical terms, and so on)
+This version can easily be adapted to other languages - or other vocabularies (why not create a game to find medical terms, and so on). You'll only need to create a new server/words.txt, and probably translate the UI.
 
 The program consists of a Server and a Client
 <div style="clear:both"></div>
@@ -31,6 +31,8 @@ The client mimics the design of Spelling Bee and Wortify with some slight change
 
 On startup, it loads the current day's word list from the server and checks the user's entries against this list. This concept was chosen (as in opposite do send each user entry to the server to have it checked there), to minimize server load and to allow continuing the game if network connection deteriorates.
 The drawback is, that the solutions are on the client from the beginning, wich makes "cheating" possible, e.g. by manually calling `/woorden`. The word list is sent obfuscated to make this not too easy. That's no strong encryption, but, hey, it's only a game.
+
+Game score is stored in the Browser's LocalStorage, if the user agree to do so. If they do, it's possible to continue an interrupted game, to review solutions later, and to show some stats.
 
 ## Development mode
 
