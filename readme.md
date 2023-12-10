@@ -32,7 +32,7 @@ The client mimics the design of Spelling Bee and Wortify with some slight change
 On startup, it loads the current day's word list from the server and checks the user's entries against this list. This concept was chosen (as in opposite do send each user entry to the server to have it checked there), to minimize server load and to allow continuing the game if network connection deteriorates.
 The drawback is, that the solutions are on the client from the beginning, wich makes "cheating" possible, e.g. by manually calling `/woorden`. The word list is sent obfuscated to make this not too easy. That's no strong encryption, but, hey, it's only a game.
 
-Game score is stored in the Browser's LocalStorage, if the user agree to do so ("Opslaan toestaan"). If they do, it's possible to continue an interrupted game, to review solutions later, and to show some stats.
+Game score is stored in the Browser's LocalStorage, if the user agrees to do so ("Opslaan toestaan"). If they do, it's possible to continue an interrupted game, to review solutions later, and to show some stats.
 
 ## Development mode
 
