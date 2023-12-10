@@ -1,0 +1,10 @@
+<div style="text-align:left;">
+  <h1>Privacy</h1>
+  <p>Woordify speichert auf deinem Browser Daten, die es ermöglichen, nach einem Unterbruch an derselben Stelle weiterzuspielen
+  und dir Statistiken über deine Spiele anzuzeigen. Andere Daten werden nicht gespeichert.
+  </p>
+  <p>Wenn du die Datenspeicherung nicht erlaubst, kannst du trotzdem spielen, aber bei jedem Neuladen der Seite beginnt
+  das Spiel wieder von vorne. Das Program kann sich dann nichts merken, auch nicht dieses Verbot. Es wird dich bei jedem Start 
+  erneut fragen.</p>
+  <p>Wenn du deinen Browser Cache löschst, werden sämtliche Daten entfernt, und auch dann beginnt das Spiel von vorne.</p>
+</div>

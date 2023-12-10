@@ -1,0 +1,72 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chromium against localhost",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}",
+            "runtimeExecutable": "/snap/bin/chromium",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222",
+                "--disable-background-networking"
+            ]
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Debug Server",
+            "program": "${workspaceFolder}/server/src/index.ts",
+            "cwd": "${workspaceFolder}/server",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "type": "node"
+        },
+        {
+            "name": "Launch Creator",
+            "program": "${workspaceFolder}/server/src/creator.ts",
+            "cwd": "${workspaceFolder}/server",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "request": "launch",
+            "env": {
+                "CreatorDebug": "true"
+            },
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Scraper",
+            "env": {
+                "ScraperDebug": "true"
+            },
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "cwd": "${workspaceFolder}/server",
+            "program": "${workspaceFolder}/server/src/scraper.ts",
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        }
+    ]
+}

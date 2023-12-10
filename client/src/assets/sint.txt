@@ -1,0 +1,47 @@
+<p>Viel zu spät kommt heut der Sint<br />
+Vermisst hat ihn fast jedes Kind.</p>
+
+<p>Doch schneller ging es leider nicht:<br />
+Der Zwarte Piet, der arme Wicht,<br />
+konnte doch nichts finden fast,<br />
+was an alle Regeln passt:</p>
+
+<p>Biologisch und vegan<br />
+kein Schinken und kein Parmesan,<br />
+gesund, verträglich, inkludierend,<br />
+haltbar oder kompostierend.</p>
+
+<p>Recyclierbar, freundlich, hell,<br />
+oder immateriell.<br />
+Endlich fiel ihm etwas ein,<br />
+und das soll heut' gewichtelt sein:</p>
+
+<p>Wenn jemand sehr konzentriert<br />
+den Handy-Bildschirm malträtiert,<br />
+dann kann das unsre Astrid sein,<br />
+denn sie tippt täglich Wörter ein,</p>
+
+<p>Und sie will wirklich alle finden,<br />
+sie sucht von vorne und von hinten<br />
+das Wortify in deutsch und englisch,</br>
+im Kopf, da knirscht's manchmal bedenklisch</p>
+
+<p>Doch, fragt der Sint sich manches Mal<br />
+Wie steht es mit haar eigen taal?</br>
+Da sind die Wörter lang und krumm<br />
+mit 'ij' und 'ui' und 'je' drumrum</p>
+
+<p>Kommt Astrid denn auch damit klar?<br />
+Wird sie dann Holland-Champion gar?<br/>
+Drum macht der Sint halt, eins, zwei drei,<br/>
+ein holländisches Woordify.</p>
+
+<p>Zur Frust-Vermeidung für den Jens<br />
+Zeigt Klaas auch Oeko-Kompetenz:<br />
+Statt Verpackung geht zur Not <br />
+hier auch ein schlichter QR-Code. 
+</p>
+<div>
+<img src="/qr-code.png" alt="qr-code" width="200"/>
+</div>
+

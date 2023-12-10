@@ -1,0 +1,29 @@
+<div style="text-align:left;">
+    <h2 style="text-align:center">Wortify op Nederlands</h2>
+    <p>Dieses Programm ist inspiriert von <a href="https://6mal5.com/wortify/" target="_blank">Wortify</a>, und dieses wiederum von 
+        <a href="https://www.nytimes.com/puzzles/spelling-bee" target="_blank">Spelling Bee</a>.
+        Dies hier ist eine Version in holländischer Sprache.
+    </p>
+    <p>Ziel des Spiels ist es, möglichst viele Wörter aus den 7 vorgegebenen Buchstaben zu bilden. Dabei muss auf jeden Fall der mittlere Buchstabe
+        enthalten sein, alle anderen Buchstaben dürfen keinmal, einmal oder mehrmals vorkommen. Es sind nur Wörter mit mehr als drei Buchstaben gültig.
+        Ein Wort mit vier Buchstaben ergibt einen Punkt, längere Wörter für jeden Buchstaben einen Punkt. Wenn ein Wort sämtliche 7 Buchstaben enthält (ein oder mehrmals),
+        ist es ein "Pangramm" und erhält 7 Punkte zusätzlich. Es gibt immer mindestens ein Pangramm.
+    </p>
+    <p>
+        Alle Spieler erhalten dieselben Buchstaben. Immer um Mitternacht wird eine neue Kombination erstellt.
+    </p>
+    <p>
+        Die Liste der Wörter, die das Progamm kennt, ist natürlich zwangsläufig endlich. 
+        Woordify kennt die ca. 148'000 Wörter, die auf <a href="https://nl.wiktionary.org/w/index.php?title=Categorie:Woorden_in_het_Nederlands" target="_new">Wiktionary</a> enthalten sind, 
+        und folgende Bedingungen erfüllen:
+        <ul>
+        <li>Mindestens 4 Buchstaben</li>
+        <li>Besteht nur aus Buchstaben (also keine Apostrophe, Bindestriche oder Leerzeichen im Wort)</li>
+        </ul>
+        <p><em>Anmerkung</em>: Die Wiktionary-Liste Liste enthält auch Eigennamen und zusammengesetzte Wörter.</p>
+    </p>
+    <p>
+        Für den höchsten Level müssen etwa 2/3 der jeweils theoretisch möglichen Punkte erreicht werden. Es ist wahrscheinlich nicht möglich, alle Punkte zu erreichen, da die
+        Wiktionary-Liste auch sehr ungebräuchliche oder seltsame Wörter enthält.
+    </p>
+</div>

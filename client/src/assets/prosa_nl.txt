@@ -1,0 +1,35 @@
+<div style="text-align:left;">
+  <p>
+    Dit programma is geïnspireerd door <a href="https://6mal5.com/wortify/" target="_blank">Wortify</a>, 
+    dat is geïnspireerd door <a href="https://www.nytimes.com/puzzles/spelling-bee" target="_blank">Spelling Bee</a>. 
+    Woordify is een Nederlandstalige versie.
+  </p>  
+  <p>
+    Het doel van het spel is om zoveel mogelijk woorden te vormen uit de 7 gegeven letters. 
+    In ieder geval moet de middelste letter er in staan, alle andere letters mogen niet, of één keer of meerdere keren voorkomen. 
+    Alleen woorden met meer dan drie letters zijn geldig. 
+    Een woord van vier letters is één punt waard, langere woorden zijn één punt waard voor elke letter. 
+    Als een woord alle 7 letters bevat (een of meerdere keren), is het een "pangram" en krijgt het 7 extra punten. 
+    Er is altijd minstens één pangram.
+  </p>
+  <p>
+    Alle spelers krijgen dezelfde letters. Elke middernacht wordt er een nieuwe combinatie gemaakt.
+  </p>
+
+  <p>
+    Woordify kent de ongeveer 148.000 woorden op 
+    <a href="https://nl.wiktionary.org/w/index.php?title=Categorie:Woorden_in_het_Nederlands" target="_new">Wiktionary</a> 
+    voldoende aan de volgende voorwaarden:
+
+    <ul>
+      <li>Minstens 4 letters</li>
+      <li>Bestaat uit alleen letters (dus geen apostrofs, koppeltekens of spaties in het woord)</li>
+    </ul>
+      <p>Opmerking: de Wiktionary-lijst bevat ook eigennamen en samengestelde woorden.</p>
+
+  </p>
+  <p>
+    Voor het hoogste niveau moet ongeveer 2/3 van de theoretisch mogelijke punten behaald worden. 
+    Het is waarschijnlijk niet mogelijk om alle punten te krijgen, aangezien de Wiktionary-lijst ook zeer ongebruikelijke of vreemde woorden bevat.
+  </p>
+</div>

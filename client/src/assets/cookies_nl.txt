@@ -1,0 +1,16 @@
+<div style="text-align:left;">
+    <h2>Privacy</h2>
+    <p>
+        Woordify slaat gegevens op in je browser die het mogelijk maken om na een 
+        onderbreking op dezelfde plek verder te spelen en om je statistieken over 
+        je games te laten zien. Andere gegevens worden niet opgeslagen.
+    </p>
+    <p>
+        Als je het opslaan van gegevens niet toestaat, 
+        kunt je nog steeds spelen, maar elke keer dat je de pagina vernieuwt, begint het spel opnieuw. 
+        Het programma kan zich dan niets meer herinneren, ook dit verbod niet. Het zal je elke keer dat je het start opnieuw vragen.
+    </p>
+    <p>
+        Als je de browsercache wist, worden alle gegevens verwijderd.
+    </p>
+</div>
