@@ -2,7 +2,7 @@
 
 <img src="screenshot.png" alt="Screenshot" width="100px" style="float:left;margin-right:6px">
 
-This is a word finding game, heavily inspired by [Wortify](https://6mal5.com/wortify/), which in turn is inspired by [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee). I didn't find a dutch version, so I had to create my own. 
+This is a word finding game, heavily inspired by [Wortify](https://6mal5.com/wortify/), which in turn is inspired by [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee). I didn't find a dutch version, so I had to create my own. You can try a working example [here](https://woordify.rgw.ch).
 
 But this version can easily be adapted to other languages - or other vocabularies (why not create a game to find medical terms, and so on)
 
